@@ -8,7 +8,7 @@ As an organization, we take privacy very seriously. we know how irritating it is
 
 We have programmed this app to collect personal information like email, phone, name, account details, etc. All these collected data are stored on our secure server. These data are collected so we can provide accurate services for you.
 
-If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
+If you find any security vulnerability that has been inadvertently caused by me, or have any questions regarding how the app protects your privacy, please send me an email and I will surely try to fix it/help you.
 
 Yours sincerely,
 
